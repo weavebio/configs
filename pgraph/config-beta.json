@@ -55,14 +55,10 @@
   ],
   "options":{
     "nodes":{
-      "color":"#1E88E5",
-      "shape":"box",
-      "shapeProperties":{
-        "borderRadius":3
-      }
+      "color":"#1E88E5"
     },
     "edges":{
-      "color":"#1E88E5"
+      "color":"red"
     },
     "height":"600px"
   }
