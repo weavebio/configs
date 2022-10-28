@@ -1,0 +1,7 @@
+[{
+  "name": "Alpha",
+  "path": "pgraph/config-alpha.json"
+}, {
+  "name": "Beta",
+  "path": "pgraph/config-beta.json"
+}]
